@@ -1,0 +1,161 @@
+{
+    "TempestIslandHex": { 
+        "name": "Tempest Island", "file": "pngs/MapTempestIslandHex.png", "q": -2, "p": 4 
+    },
+    "GreatMarchHex": { 
+        "name": "Great March", "file": "pngs/MapGreatMarchHex.png", "q": 2, "p": 0 
+    },
+    "ViperPitHex": { 
+        "name": "Viper Pit", "file": "pngs/MapViperPitHex.png", "q": -2, "p": 1 
+    },
+    "MarbanHollow": { 
+        "name": "MarbanHollow", "file": "pngs/MapMarbanHollow.png", "q": -1, "p": 1 
+    },
+    "BasinSionnachHex": { 
+        "name": "BasinSionnachHex", "file": "pngs/MapBasinSionnachHex.png", "q": -3, "p": 0 
+    },
+    "StemaLandingHex": { 
+        "name": "StemaLandingHex", "file": "pngs/MapStemaLandingHex.png", "q": 3, "p": -4 
+    },
+    "DeadLandsHex": { 
+        "name": "DeadLandsHex", "file": "pngs/MapDeadLandsHex.png", "q": 0, "p": 0 
+    },
+    "HeartlandsHex": { 
+        "name": "HeartlandsHex", "file": "pngs/MapHeartlandsHex.png", "q": 2, "p": -1 
+    },
+    "EndlessShoreHex": { 
+        "name": "EndlessShoreHex", "file": "pngs/MapEndlessShoreHex.png", "q": -1, "p": 3 
+    },
+    "WestgateHex": { 
+        "name": "WestgateHex", "file": "pngs/MapWestgateHex.png", "q": 2, "p": -3 
+    },
+    "AcrithiaHex": { 
+        "name": "AcrithiaHex", "file": "pngs/MapAcrithiaHex.png", "q": 2, "p": 1 
+    },
+    "MooringCountyHex": { 
+        "name": "MooringCountyHex", "file": "pngs/MapMooringCountyHex.png", "q": -1, "p": -1 
+    },
+    "WeatheredExpanseHex": { 
+        "name": "WeatheredExpanseHex", "file": "pngs/MapWeatheredExpanseHex.png", "q": -2, "p": 2 
+    },
+    "MorgensCrossingHex": { 
+        "name": "MorgensCrossingHex", "file": "pngs/MapMorgensCrossingHex.png", "q": -3, "p": 3 
+    },
+    "LochMorHex": { 
+        "name": "LochMorHex", "file": "pngs/MapLochMorHex.png", "q": 1, "p": -1 
+    },
+    "StonecradleHex": { 
+        "name": "StonecradleHex", "file": "pngs/MapStonecradleHex.png", "q": 0, "p": -2 
+    },
+    "AllodsBightHex": { 
+        "name": "AllodsBightHex", "file": "pngs/MapAllodsBightHex.png", "q": 0, "p": 2 
+    },
+    "KalokaiHex": { 
+        "name": "KalokaiHex", "file": "pngs/MapKalokaiHex.png", "q": 3, "p": 0 
+    },
+    "RedRiverHex": { 
+        "name": "RedRiverHex", "file": "pngs/MapRedRiverHex.png", "q": 3, "p": -1 
+    },
+    "OriginHex": { 
+        "name": "OriginHex", "file": "pngs/MapOriginHex.png", "q": 3, "p": -3 
+    },
+    "HowlCountyHex": { 
+        "name": "HowlCountyHex", "file": "pngs/MapHowlCountyHex.png", "q": -3, "p": 1 
+    },
+    "ClahstraHex": { 
+        "name": "ClahstraHex", "file": "pngs/MapClahstraHex.png", "q": -1, "p": 2 
+    },
+    "SpeakingWoodsHex": { 
+        "name": "SpeakingWoodsHex", "file": "pngs/MapSpeakingWoodsHex.png", "q": -2, "p": -1 
+    },
+    "ShackledChasmHex": { 
+        "name": "ShackledChasmHex", "file": "pngs/MapShackledChasmHex.png", "q": 1, "p": 1 
+    },
+    "TerminusHex": { 
+        "name": "TerminusHex", "file": "pngs/MapTerminusHex.png", "q": 1, "p": 2 
+    },
+    "LinnMercyHex": { 
+        "name": "LinnMercyHex", "file": "pngs/MapLinnMercyHex.png", "q": 0, "p": -1 
+    },
+    "ClansheadValleyHex": { 
+        "name": "ClansheadValleyHex", "file": "pngs/MapClansheadValleyHex.png", "q": -3, "p": 2 
+    },
+    "GodcroftsHex": { 
+        "name": "GodcroftsHex", "file": "pngs/MapGodcroftsHex.png", "q": -3, "p": 4 
+    },
+    "NevishLineHex": { 
+        "name": "NevishLineHex", "file": "pngs/MapNevishLineHex.png", "q": 0, "p": -3 
+    },
+    "CallumsCapeHex": { 
+        "name": "CallumsCapeHex", "file": "pngs/MapCallumsCapeHex.png", "q": -1, "p": -2 
+    },
+    "FishermansRowHex": { 
+        "name": "FishermansRowHex", "file": "pngs/MapFishermansRowHex.png", "q": 2, "p": -4 
+    },
+    "ReachingTrailHex": { 
+        "name": "ReachingTrailHex", "file": "pngs/MapReachingTrailHex.png", "q": -2, "p": 0 
+    },
+    "UmbralWildwoodHex": { 
+        "name": "UmbralWildwoodHex", "file": "pngs/MapUmbralWildwoodHex.png", "q": 1, "p": 0 
+    },
+    "StlicanShelfHex": { 
+        "name": "StlicanShelfHex", "file": "pngs/MapStlicanShelfHex.png", "q": -2, "p": 3 
+    },
+    "CallahansPassageHex": { 
+        "name": "CallahansPassageHex", "file": "pngs/MapCallahansPassageHex.png", "q": -1, "p": 0 
+    },
+    "KingsCageHex": { 
+        "name": "KingsCageHex", "file": "pngs/MapKingsCageHex.png", "q": 1, "p": -2 
+    },
+    "AshFieldsHex": { 
+        "name": "AshFieldsHex", "file": "pngs/MapAshFieldsHex.png", "q": 3, "p": -2 
+    },
+    "FarranacCoastHex": { 
+        "name": "FarranacCoastHex", "file": "pngs/MapFarranacCoastHex.png", "q": 1, "p": -3 
+    },
+    "DrownedValeHex": { 
+        "name": "DrownedValeHex", "file": "pngs/MapDrownedValeHex.png", "q": 0, "p": 1 
+    },
+    "SableportHex": { 
+        "name": "SableportHex", "file": "pngs/MapSableportHex.png", "q": 2, "p": -2 
+    },
+    "TheFingersHex": { 
+        "name": "TheFingersHex", "file": "pngs/MapTheFingersHex.png", "q": -2, "p": 5 
+    },
+    "ReaversPassHex": { 
+        "name": "ReaversPassHex", "file": "pngs/MapReaversPassHex.png", "q": 0, "p": 3 
+    },
+    "OarbreakerHex": { 
+        "name": "OarbreakerHex", "file": "pngs/MapOarbreakerHex.png", "q": 3, "p": -5 
+    },
+    "OlavisWakeHex": { 
+        "name": "OlavisWakeHex", "file": "pngs/MapOlavisWakeHex.png", "q": 2, "p": -6 
+    },
+    "PalantineBermHex": { 
+        "name": "PalantineBermHex", "file": "pngs/MapPalantineBermHex.png", "q": 2, "p": -5 
+    },
+    "PariPeakHex": { 
+        "name": "PariPeakHex", "file": "pngs/MapPariPeakHex.png", "q": 1, "p": -5 
+    },
+    "TheGutterHex": { 
+        "name": "TheGutterHex", "file": "pngs/MapTheGutterHex.png", "q": 1, "p": -4 
+    },
+    "KuuraStrandHex": { 
+        "name": "KuuraStrandHex", "file": "pngs/MapKuuraStrandHex.png", "q": 0, "p": -4 
+    },
+    "LykosIsleHex": { 
+        "name": "LykosIsleHex", "file": "pngs/MapLykosIsleHex.png", "q": -3, "p": 5 
+    },
+    "OnyxHex": { 
+        "name": "OnyxHex", "file": "pngs/MapOnyxHex.png", "q": 0, "p": 4 
+    },
+    "TyrantFoothillsHex": { 
+        "name": "TyrantFoothillsHex", "file": "pngs/MapTyrantFoothillsHex.png", "q": -1, "p": 5 
+    },
+    "PipersEnclaveHex": { 
+        "name": "PipersEnclaveHex", "file": "pngs/MapPipersEnclaveHex.png", "q": -2, "p": 6 
+    },
+    "WrestaHex": { 
+        "name": "WrestaHex", "file": "pngs/MapWrestaHex.png", "q": -1, "p": 4
+     }
+}
