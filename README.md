@@ -113,19 +113,3 @@ Learn more about hexagon math here:
 - https://www.redblobgames.com/grids/hexagons/
 
 I may have gotten some of the theory and conventions wrong in the code, but the results seem to work.
-
-## Publish to PyPI
-
-1. Update version in `src/foxhole_hexes/__init__.py` and `pyproject.toml`.
-2. Build:
-
-```
-python -m pip install --upgrade build twine
-python -m build
-```
-
-3. Upload:
-
-```
-python -m twine upload dist/*
-```
