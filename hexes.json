@@ -9,7 +9,7 @@
         "name": "Viper Pit", "file": "pngs/MapViperPitHex.png", "q": -2, "p": 1 
     },
     "MarbanHollow": { 
-        "name": "MarbanHollow", "file": "pngs/MapMarbanHollow.png", "q": -1, "p": 1 
+        "name": "MarbanHollow", "file": "pngs/MapMarbanHollowHex.png", "q": -1, "p": 1
     },
     "BasinSionnachHex": { 
         "name": "BasinSionnachHex", "file": "pngs/MapBasinSionnachHex.png", "q": -3, "p": 0 
@@ -137,8 +137,8 @@
     "PariPeakHex": { 
         "name": "PariPeakHex", "file": "pngs/MapPariPeakHex.png", "q": 1, "p": -5 
     },
-    "TheGutterHex": { 
-        "name": "TheGutterHex", "file": "pngs/MapTheGutterHex.png", "q": 1, "p": -4 
+    "GutterHex": { 
+        "name": "The Gutter", "file": "pngs/MapGutterHex.png", "q": 1, "p": -4 
     },
     "KuuraStrandHex": { 
         "name": "KuuraStrandHex", "file": "pngs/MapKuuraStrandHex.png", "q": 0, "p": -4 
