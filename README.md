@@ -2,7 +2,7 @@
 
 Tool to help stitch and tile the Foxhole game map. Assemble all the individual hex maps into one master map, and then cut the map up into tiles that can be rendered on a map like [Leaflet](https://leafletjs.com/reference.html)
 
-<img width="600" src="./docs/master.png" />
+<img width="600" src="https://raw.githubusercontent.com/notbadjon/foxhole-hexes/refs/tags/v1.0.0/docs/master.png" />
 
 ## Install
 
@@ -106,7 +106,7 @@ The map layout is configured in a json file.
 
 The position of each hex is defined by the q,p coordinates. This axial coordinate system is based on this diagram.
 
-<img width="600" src="./docs/hexagon-axial-coordinates.jpeg" />
+<img width="600" src="https://raw.githubusercontent.com/notbadjon/foxhole-hexes/refs/tags/v1.0.0/docs/hexagon-axial-coordinates.jpeg" />
 
 Learn more about hexagon math here:
 - https://math.stackexchange.com/questions/2254655/hexagon-grid-coordinate-system
