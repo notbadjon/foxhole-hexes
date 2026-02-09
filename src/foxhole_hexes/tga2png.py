@@ -5,7 +5,8 @@ tga2png.py
 Convert .tga icons from one directory to .png icons in another directory.
 
 Usage:
-  python tga2png.py --from tga-icons/ --to png-icons/
+  tga2png --from tga-icons/ --to png-icons/
+  python -m foxhole_hexes.tga2png --from tga-icons/ --to png-icons/
 """
 
 from __future__ import annotations

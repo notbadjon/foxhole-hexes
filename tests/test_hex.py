@@ -2,7 +2,7 @@ import math
 
 import pytest
 
-from hex2tile import compute_hex_center
+from foxhole_hexes.hex2tile import compute_hex_center
 
 
 def test_compute_hex_center_flat_top_axial():

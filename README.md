@@ -4,12 +4,26 @@ Tool to help stitch and tile the Foxhole game map. Assemble all the individual h
 
 <img width="600" src="./docs/master.png" />
 
+## Install
+
+From PyPI:
+
+```
+pip install foxhole-hexes
+```
+
+From source:
+
+```
+pip install -e .
+```
+
 ## How to run
 
 **hex2tile**
 
 ```
-Usage: hex2tile.py [OPTIONS]
+Usage: hex2tile [OPTIONS]
 
 Options:
   --hexes FILE         Path to config JSON with format: {<hex_id>: { 'name':
@@ -31,13 +45,19 @@ Options:
 
 Example:
 ```
-python hex2tile.py --hexes hexes.json --out tiles --max-zoom 5 --min-zoom 2 --write-master master.png
+hex2tile --hexes hexes.json --out tiles --max-zoom 5 --min-zoom 2 --write-master master.png
+```
+
+Module form:
+
+```
+python -m foxhole_hexes.hex2tile --hexes hexes.json --out tiles --max-zoom 5 --min-zoom 2 --write-master master.png
 ```
 
 **tga2png**
 
 ```
-Usage: tga2png.py [OPTIONS]
+Usage: tga2png [OPTIONS]
 
   Convert TGA icons to PNG using Pillow.
 
@@ -57,7 +77,13 @@ Options:
 Example
 
 ```
-python tga2png.py --from ../warapi/Images/Maps --to png/
+tga2png --from ../warapi/Images/Maps --to png/
+```
+
+Module form:
+
+```
+python -m foxhole_hexes.tga2png --from ../warapi/Images/Maps --to png/
 ```
 
 ## Hexes
@@ -87,3 +113,19 @@ Learn more about hexagon math here:
 - https://www.redblobgames.com/grids/hexagons/
 
 I may have gotten some of the theory and conventions wrong in the code, but the results seem to work.
+
+## Publish to PyPI
+
+1. Update version in `src/foxhole_hexes/__init__.py` and `pyproject.toml`.
+2. Build:
+
+```
+python -m pip install --upgrade build twine
+python -m build
+```
+
+3. Upload:
+
+```
+python -m twine upload dist/*
+```
