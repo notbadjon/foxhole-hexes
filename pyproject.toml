@@ -27,6 +27,10 @@ classifiers = [
   "Topic :: Multimedia :: Graphics",
 ]
 
+[project.urls]
+Repository = "https://github.com/notbadjon/foxhole-hexes"
+Issues = "https://github.com/notbadjon/foxhole-hexes/issues"
+
 [project.optional-dependencies]
 dev = ["pytest"]
 
